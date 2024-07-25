@@ -1,6 +1,6 @@
 <h1 align="center">Hey folks 👋</h1>
 <h3 align="left">About me -</h3>
-<h3 align="center">Backend Developer experimenting with Node.js and NestJS, exploring innovative backend solutions and gaining expertise in modern web technologies.</h3>
+<h3 align="center">Backend Developer experimenting with Node.js and gaining expertise in modern web technologies.</h3>
 
 <h3 align="left">Languages and Tools -</h3>
 <p align="left">
