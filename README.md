@@ -1,65 +1,79 @@
-<h1 align="center">Hey folks 👋</h1>
-<h3 align="left">About me -</h3>
-<h3 align="center">Backend Developer experimenting with Node.js and gaining expertise in modern web technologies.</h3>
+# Hi, I'm Rahul Kumar 👋
 
-<h3 align="left">Languages and Tools -</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <span style="margin: 0 10px;"></span>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <span style="margin: 0 10px;"></span>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <span style="margin: 0 10px;"></span>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <span style="margin: 0 10px;"></span>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <span style="margin: 0 10px;"></span>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <span style="margin: 0 10px;"></span>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <span style="margin: 0 10px;"></span>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <span style="margin: 0 10px;"></span>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <span style="margin: 0 10px;"></span>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
+### Software Engineer | Java Backend Development | Spring Boot | Full-Stack Engineering
+
+I’m a software engineer focused on building backend applications, REST APIs and practical developer tools. I enjoy working across the software development lifecycle—from understanding requirements and designing solutions to implementation, testing and troubleshooting.
+
+- 💼 Systems Engineer at **Tata Consultancy Services**
+- 🔭 Focus areas: **Java, Spring Boot, REST APIs, SQL and backend engineering**
+- 🌱 Currently strengthening my knowledge of **backend architecture, system design and performance engineering**
+- 🧪 Interested in application performance, clean code and maintainable software
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Backend & Frontend**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Cloud, DevOps & Testing**  
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### [Load Testing in Java](https://github.com/rahullkr/load-testing-in-java)
+A Spring Boot REST API and performance-testing project using Java, MySQL, JDBC and Apache JMeter. Includes a Python utility for asynchronously seeding test data and a JMeter test plan configured for up to 570 virtual users.
+
+**Tech:** Java 17 · Spring Boot · MySQL · JDBC · Apache JMeter · Python
+
+### [SOLID LLD Helper](https://github.com/rahullkr/solid-lld-helper)
+A published Visual Studio Code extension that scans Java source files for potential violations of the five SOLID principles and provides inline highlighting and design suggestions.
+
+**Tech:** TypeScript · JavaScript · VS Code API · Regex-based source scanning
+
+### [Freelance Time Tracker CLI](https://github.com/rahullkr/freelancing_cli)
+A command-line time-tracking application built to record and manage freelance work sessions.
+
+**Tech:** Node.js · Commander.js · SQLite
+
+---
+
+## 📊 GitHub Statistics
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rahullkr&show_icons=true&hide_border=true&rank_icon=github" alt="Rahul's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahullkr&layout=compact&hide_border=true" alt="Most used languages" />
 </p>
 
-<h3 align="left">My stats - </h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahullkr&show_icons=true&locale=en&layout=compact" alt="rahullkr" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahullkr&show_icons=true&locale=en" alt="rahullkr" />
-</p>
+## 🤝 Connect with me
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahullkr&" alt="rahullkr" />
-</p>
+- [LinkedIn](https://www.linkedin.com/in/rahul-kumar-16b085207/)
+- [GitHub](https://github.com/rahullkr)
+- [VS Code Marketplace – SOLID LLD Helper](https://marketplace.visualstudio.com/items?itemName=rahul0908.solid-lld-helper)
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/rahul-kumar-16b085207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-kumar-16b085207" height="30" width="40" /></a>
-  <a href="https://instagram.com/_rahull_98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rahull_98" height="30" width="40" /></a>
-</p>
+---
+
+*I’m always interested in learning, building useful software and collaborating on meaningful engineering projects.*
