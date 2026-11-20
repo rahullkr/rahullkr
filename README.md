@@ -42,10 +42,10 @@ I’m a software engineer focused on building backend applications, REST APIs an
 
 ## 🚀 Featured Projects
 
-### [Load Testing in Java](https://github.com/rahullkr/load-testing-in-java)
-A Spring Boot REST API and performance-testing project using Java, MySQL, JDBC and Apache JMeter. Includes a Python utility for asynchronously seeding test data and a JMeter test plan configured for up to 570 virtual users.
+### [Pune Startup Arena](https://github.com/rahullkr/pune-startup)
+A full-stack job board and startup discovery platform for Pune, with a Spring Boot REST API, a React frontend and a Python scraper that publishes discovered jobs through RabbitMQ. Includes candidate profiles, resumes, job matching, saved jobs and map-based discovery backed by PostgreSQL with PostGIS and Redis.
 
-**Tech:** Java 17 · Spring Boot · MySQL · JDBC · Apache JMeter · Python
+**Tech:** Java 21 · Spring Boot · React · TypeScript · Python · PostgreSQL · PostGIS · Redis · RabbitMQ · Docker
 
 ### [SOLID LLD Helper](https://github.com/rahullkr/solid-lld-helper)
 A published Visual Studio Code extension that scans Java source files for potential violations of the five SOLID principles and provides inline highlighting and design suggestions.
